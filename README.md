@@ -12,7 +12,6 @@
 
 
 **Authors:** Deva, K'aeloree and Rhaella  
-**Mod Website:** <a href="http://www.spellholdstudios.net/ie/ninde">Spellhold Studios</a>  
 **Mod Forum:** <a href="http://www.shsforums.net/forum/417-ninde/">Ninde NPC</a>  
 
 
@@ -190,7 +189,7 @@ In addition to the methods above for removing individual components, you can com
 #### Special Acknowledgements to:
 
 - Huge thanks to K'aeloree, for effectively making this happen. Additional thanks go to wonnimchuna, theacefes, SConrad, Tassadar88, vilkacis, Icendoan and Zyraen for their time and effort and whatnot.
-- <a href="http://www.spellholdstudios.net/">Spellhold Studios</a> team for hosting the mod (<a href="http://www.shsforums.net">Forums</a>).
+- <a href="https://www.shsforums.net/">Spellhold Studios</a> team for hosting the mod.
 - Music: theacefes.
 - Portrait: wonnimchunha.
 - Additional art: vilkacis.
@@ -258,7 +257,7 @@ In addition to the methods above for removing individual components, you can com
   - Added missing DS value: opcode #282 (Script: Scripting State Modifier): parameter1 = 1 - parameter2 = 2 [158 SCRIPTINGSTATE3 aka LEVEL_DRAIN_IMMUNITY].
   - EE and ToBEx compatibility: added Item Creature Exclusion (item_use.2da).
 - lk#nindp.tra: Replaced "*&lt;&lt;placeholder&gt;&gt;*" entry with a more accurate one.
-- Fixed a typo in lk#nindj.tra <a href="http://www.shsforums.net/topic/57521-ninde-crash/">causing CTD</a> (replaced "*na<ins>ï</ins>ve*" with "*na<ins>i</ins>ve*", thanks <a href="https://forums.beamdog.com/discussion/comment/680148/#Comment_680148">nullset</a>!) and a few others in tra files.
+- Fixed a typo in lk#nindj.tra <a href="http://www.shsforums.net/topic/57521-ninde-crash/">causing CTD</a> (replaced "*na<ins>Ã¯</ins>ve*" with "*na<ins>i</ins>ve*", thanks <a href="https://forums.beamdog.com/discussion/comment/680148/#Comment_680148">nullset</a>!) and a few others in tra files.
 - Traified lk#nicut.baf.
 - Updated deprecated modding tools links.
 - Re-formated, updated and renamed readme file to *ninde-readme-english.html* and moved it into new readme folder.
