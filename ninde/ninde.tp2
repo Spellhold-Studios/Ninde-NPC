@@ -76,6 +76,9 @@ LANGUAGE ~English~
          ~english~
          ~ninde/translations/english/setup.tra~
 
+LANGUAGE ~Schinese~
+         ~schinese~
+         ~ninde/translations/schinese/setup.tra~
 
 /* ======================== *
  *  Ninde NPC Mod for BGII  *
